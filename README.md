@@ -8,6 +8,7 @@ DualStyleGAN會針對每個frame的人臉做face alignment，可以看到右上�
 
 https://user-images.githubusercontent.com/99737139/196706791-2e826d98-f838-434c-846f-03105cff73b5.mp4
 
+VToonify的效果很流暢
 https://user-images.githubusercontent.com/99737139/196706870-2e5b9d0d-e2cc-422f-b4ea-2e95582bb913.mp4
 
 
