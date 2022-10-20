@@ -3,15 +3,14 @@
 
 
 
-DualStyleGAN 會針對每個frame的人臉做face alignment，可以看到右上方格中的人頭一直在變換角度。<br>
+Video1：DualStyleGAN 會針對每個frame的人臉做face alignment，可以看到右上方格中的人頭一直在變換角度。<br>
 而右下方格轉換後的影片，髮流等細微結構一直在跳動，很不連續<br>
+
 <div align=center>
 <img src="https://user-images.githubusercontent.com/99737139/196706791-2e826d98-f838-434c-846f-03105cff73b5.mp4" height="500">     <img src="https://user-images.githubusercontent.com/99737139/196706870-2e5b9d0d-e2cc-422f-b4ea-2e95582bb913.mp4" height="500">
 </div>
 
 VToonify 的效果很流暢<br>
-
-https://user-images.githubusercontent.com/99737139/196706870-2e5b9d0d-e2cc-422f-b4ea-2e95582bb913.mp4
 
 
 
