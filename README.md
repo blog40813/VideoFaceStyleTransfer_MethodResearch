@@ -28,7 +28,8 @@ VToonify 保留了手和吸管（雖然有點透明化）<br>
 <div align=center>
   <img src="https://user-images.githubusercontent.com/99737139/196707020-6a8c4ccb-54d6-47ee-9ea8-72131abfc3f2.mp4" height="500">
 </div>
-            
+
+DualStyleGAN的轉換過程 <br>
 <div align=center>
 <img src="data/dualstylegan.jpg" width=10000>
 </div>
