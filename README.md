@@ -34,4 +34,4 @@ DualStyleGAN的轉換過程 <br>
 <img src="data/dualstylegan.jpg" width=1000>
 </div>
 
-<img src="data/dualstylegan_without_alignment.jpg" width=1000>
+<img src="data/dualstylegan_without_alignment.jpg" width=800>
