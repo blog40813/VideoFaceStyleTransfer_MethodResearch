@@ -31,3 +31,10 @@ DualStyleGAN的轉換過程 <br>
 </div>
 
 <img src="data/dualstylegan_without_alignment.jpg" width=800>
+
+結合 MediaPipe Selfie Segmentation 的功能：將人物與背景分離並換上其他背景，但我們發現邊緣處理不是很好
+
+
+https://user-images.githubusercontent.com/99737139/197837957-7aa5423d-381b-4c10-845f-83fdd3225a46.mp4
+
+
