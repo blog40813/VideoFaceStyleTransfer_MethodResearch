@@ -34,7 +34,7 @@ DualStyleGAN的轉換過程 <br>
 
 結合 MediaPipe Selfie Segmentation 的功能：將人物與背景分離並換上其他背景，但我們發現邊緣處理不是很好
 
-
 https://user-images.githubusercontent.com/99737139/197837957-7aa5423d-381b-4c10-845f-83fdd3225a46.mp4
 
+https://user-images.githubusercontent.com/99737139/197839434-905eeb8c-1de9-4571-bc90-b435a3b8608a.mp4
 
