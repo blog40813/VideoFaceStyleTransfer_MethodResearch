@@ -10,11 +10,8 @@ https://user-images.githubusercontent.com/99737139/196706791-2e826d98-f838-434c-
 
 Video2：VToonify 的效果很流暢<br>
 
-<div align=center>
-  <video src="data/hong_vtoonify.mp4">
-</div>
 <video controls="" width="800" height="500" muted="" loop="" autoplay="">
-<source src="https://github.com/ching-0105/VideoFaceStyleTransfer_MethodResearch/blob/88f01842599133b522b3788e3adc57dbcbe3d40d/data/hong_vtoonify.mp4" type="video/mp4">
+<source src="https://github.com/ching-0105/VideoFaceStyleTransfer_MethodResearch/blob/88f01842599133b522b3788e3adc57dbcbe3d40d/data/hong_vtoonify.mp4"  type="video/mp4">
 </video>
 
 
