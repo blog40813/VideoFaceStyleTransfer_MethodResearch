@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/99737139/196706791-2e826d98-f838-434c-
 
 Video2：VToonify 的效果很流暢<br>
 <div align=center>
-<img src="data/hong_vtoonify.mp4" width=500>
+<source src="data/hong_vtoonify.mp4" width=500>
 </div>
 
 
