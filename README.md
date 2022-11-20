@@ -10,7 +10,11 @@ https://user-images.githubusercontent.com/99737139/196706791-2e826d98-f838-434c-
 
 Video2：VToonify 的效果很流暢<br>
 
-https://user-images.githubusercontent.com/99737139/196706870-2e5b9d0d-e2cc-422f-b4ea-2e95582bb913.mp4
+
+
+https://user-images.githubusercontent.com/99737139/202915485-443e0b46-b3c6-45ad-8dee-f11e949ea3a3.mp4
+
+
 
 
 
