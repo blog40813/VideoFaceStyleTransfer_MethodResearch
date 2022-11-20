@@ -10,9 +10,9 @@ https://user-images.githubusercontent.com/99737139/196706791-2e826d98-f838-434c-
 
 Video2：VToonify 的效果很流暢<br>
 
-<video autoplay loop style="width:100%; height: auto; position:absolute; z-index: -1;">
+<div align=center>
   <video src="data/hong_vtoonify.mp4" type="video/mp4">
-</video>
+</div>
 
 
 DualStyleGAN 轉換後的影片會忽略人臉周圍的其他部位（例如：手指、吸管）<br>
