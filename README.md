@@ -9,9 +9,10 @@ Video1：DualStyleGAN 會針對每個frame的人臉做face alignment，可以看
 https://user-images.githubusercontent.com/99737139/196706791-2e826d98-f838-434c-846f-03105cff73b5.mp4
 
 Video2：VToonify 的效果很流暢<br>
-<div align=center>
-<source src="data/hong_vtoonify.mp4" type="video/mp4">
-</div>
+
+<video autoplay loop style="width:100%; height: auto; position:absolute; z-index: -1;">
+  <source src="data/hong_vtoonify.mp4" type="video/mp4">
+</video>
 
 
 DualStyleGAN 轉換後的影片會忽略人臉周圍的其他部位（例如：手指、吸管）<br>
