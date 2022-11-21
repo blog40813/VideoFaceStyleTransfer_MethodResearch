@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/99737139/196706941-c49d83f9-c788-4384-
 
 Video4：VToonify 保留了手和吸管（雖然有點透明化）<br>
 
-https://user-images.githubusercontent.com/99737139/196707020-6a8c4ccb-54d6-47ee-9ea8-72131abfc3f2.mp4
+https://user-images.githubusercontent.com/99737139/202954566-815955f1-ab6f-46d2-8c14-83969d82b68e.mp4
 
 
 DualStyleGAN的轉換過程 <br>
