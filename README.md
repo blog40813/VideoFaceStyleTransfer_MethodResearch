@@ -6,15 +6,11 @@
 Video1：DualStyleGAN 會針對每個frame的人臉做face alignment，可以看到右上方格中的人頭一直在變換角度。<br>
 而右下方格轉換後的影片，髮流等細微結構一直在跳動，很不連續<br>
 
-
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/y5lgLjkivuk/0.jpg)](https://www.youtube.com/watch?v=y5lgLjkivuk)
-
 https://user-images.githubusercontent.com/99737139/196706791-2e826d98-f838-434c-846f-03105cff73b5.mp4
 
 Video2：VToonify 的效果很流暢<br>
 
-https://user-images.githubusercontent.com/99737139/202954277-bde88197-258a-4e62-b84b-1eda42c5c7e4.mp4
+https://user-images.githubusercontent.com/99737139/202955691-52b22935-7c61-4301-99e1-ec6fe8e263d3.mp4
 
 
 Video3：DualStyleGAN 轉換後的影片會忽略人臉周圍的其他部位（例如：手指、吸管）<br>
