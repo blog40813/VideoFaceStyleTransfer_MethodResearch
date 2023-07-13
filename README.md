@@ -1,7 +1,36 @@
+# Training
+  <br>
+  
+ **準備資料集** :利用DualStyleGAN所提供之find_face功能，從影片當中擷取人臉，建立資料庫，並使用waifu2x做Super-Resolution
+
+<br> 
+
+<img src = data/summerize1_0_006750_overview.jpg width = "30%" align= left >
+<div style = ="text-align: center;">
+  <img src = data/summerize2_0_006750_overview.jpg width = "30%" style="display: block; margin-left: auto; margin-right: auto;" >
+  <p style = "text-align:center;"> 共準備了146張圖片作為dataset </p>
+</div>
+
+<br><br><br><br><br><br>
+
+**漸進式訓練階段**：DualStyleGAN的訓練是分階段性，依據階段不同StyleTransfer的效果也不同
+<br>
+<img src = data/stage.png width = "35%" >
+<br>
+
+**訓練結果**：因設備GPU記憶體不足等問題，可以發現自行訓練結果較接近`stage 1`
+<br><br>
+<img src = data/training.png width = "35%" >
+<br><br><br>
+
+**對參數進行微調**：調整外部結構以及內部結構之參數，比較生成圖片之差異
+`Ws = 結構參數 Wc = 顏色及細節參數 `
+<br><br>
+<img src = data/adjust.png width = "35%" >
+<br><br><br>
+
+
 # VideoFaceStyleTransfer_MethodResearch
-
-
-
 
 Video1：DualStyleGAN 會針對每個frame的人臉做face alignment，可以看到右上方格中的人頭一直在變換角度。<br>
 而右下方格轉換後的影片，髮流等細微結構一直在跳動，很不連續<br>
